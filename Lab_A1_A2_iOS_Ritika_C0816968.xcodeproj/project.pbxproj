@@ -14,6 +14,7 @@
 		047D383926F8D1ED00D8D528 /* Lab_A1_A2_iOS_Ritika_C0816968.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 047D383726F8D1ED00D8D528 /* Lab_A1_A2_iOS_Ritika_C0816968.xcdatamodeld */; };
 		047D383B26F8D1ED00D8D528 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047D383A26F8D1ED00D8D528 /* Assets.xcassets */; };
 		047D383E26F8D1ED00D8D528 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 047D383C26F8D1ED00D8D528 /* LaunchScreen.storyboard */; };
+		047D384626F8D25D00D8D528 /* HomeScreenVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047D384526F8D25D00D8D528 /* HomeScreenVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		047D383A26F8D1ED00D8D528 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		047D383D26F8D1ED00D8D528 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		047D383F26F8D1ED00D8D528 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		047D384526F8D25D00D8D528 /* HomeScreenVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeScreenVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				047D382E26F8D1ED00D8D528 /* AppDelegate.swift */,
 				047D383026F8D1ED00D8D528 /* SceneDelegate.swift */,
+				047D384526F8D25D00D8D528 /* HomeScreenVC.swift */,
 				047D383226F8D1ED00D8D528 /* ViewController.swift */,
 				047D383426F8D1ED00D8D528 /* Main.storyboard */,
 				047D383A26F8D1ED00D8D528 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 				047D383326F8D1ED00D8D528 /* ViewController.swift in Sources */,
 				047D383926F8D1ED00D8D528 /* Lab_A1_A2_iOS_Ritika_C0816968.xcdatamodeld in Sources */,
 				047D382F26F8D1ED00D8D528 /* AppDelegate.swift in Sources */,
+				047D384626F8D25D00D8D528 /* HomeScreenVC.swift in Sources */,
 				047D383126F8D1ED00D8D528 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
